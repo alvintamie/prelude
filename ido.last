@@ -1,0 +1,44 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/alvinloh/Projects/sypherlabs/versafleet/app/" . "controllers/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/alvinloh/Projects/sypherlabs/versafleet/app/controllers/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "constants_controller.rb"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/alvinloh/Projects/sypherlabs/versafleet/spec/models/" (21854 2826 0 0) "vehicle_spec.rb" "vehicle_maintenance_spec.rb" "vehicle_maintenance_breakdown_spec.rb" "vehicle_locator_spec.rb" "vehicle_locator_crawler_spec.rb" "user_spec.rb" "trip_spec.rb" "shared_examples/" "runsheet_spec.rb~" "runsheet_spec.rb" "revision_spec.rb" "measurement_spec.rb" "job_spec.rb" "driver_spec.rb" "cutech_vehicle_locator_crawler_spec.rb" "customer_spec.rb" "coordsafe_vehicle_locator_crawler_spec.rb" "billing_account_spec.rb" "admin_user_spec.rb" "address_spec.rb" "account_spec.rb" "../" "./")
+
+ ("/Users/alvinloh/Projects/sypherlabs/versafleet/app/controllers/" (21853 58220 0 0) "welcome_controller.rb" "vehicles_controller.rb" "vehicle_maintenances_controller.rb" "vehicle_locators_controller.rb" "users_controller.rb" "trips_controller.rb" "session_controller.rb" "runsheets_controller.rb" "revisions_controller.rb" "profile_controller.rb" "notifications_controller.rb" "mobile/" "jobs_controller.rb" "files_controller.rb" "errors_controller.rb" "drivers_controller.rb" "dashboards_controller.rb" "customers_controller.rb" "constants_controller.rb" "concerns/" "billing_accounts_controller.rb" "application_controller.rb" "accounts_controller.rb" "../" "./")
+
+ ("/Users/" (21575 31104 0 0) "Shared/" "Guest/" "alvinloh/" ".localized" "../" "./")
+
+ ("/Users/alvinloh/" (21853 60795 0 0) "quicklisp/" "Public/" "Projects/" "Pictures/" "Music/" "Movies/" "Library/" "Google Drive/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Books/" "bin/" "Applications/" ".zshrc" ".zsh_history" ".zsh_aliases" ".zsh-update" ".zprofile" ".zlogin" ".zcompdump-Alvin’s MacBook Pro-5.0.5" ".zcompdump-Alvin’s MacBook Pro-5.0.2" ".vimrc" ".viminfo" ".vim_runtime/" ".vim_mru_files" ".vim/" ".v8flags.3.14.5.9.alvinloh.json" ".Trash/" ".tmux.conf" ".subversion/" ".ssh/" ".sbclrc" ".rvm/" ".rnd" ".rediscli_history" ".putty/" ".psql_history" ".pry_history" ".profile" ".parse/" ".npm/" ".node-gyp/" ".netrc" ".m2/" ".local/" ".lesshst" ".itmstransporter/" ".irb-history" ".hgignore_global" ".heroku/" ".guard_history" ".gnupg/" ".gitignore_global" ".gitconfig" ".gem/" ".fog" ".emacs.old" ".emacs.d/" ".eclipse/" ".ec2/" ".DS_Store" ".dropbox/" ".cups/" ".cordova/" ".config/" ".CFUserTextEncoding" ".cache/" ".byebug_hist" ".bashrc" ".bash_profile" ".bash_history" ".applications/" ".android/" "../" "./")
+
+ ("/Users/alvinloh/Projects/" (21852 777 0 0) "vim/" "tornado/" "sypherlabs/" "Slack/" "SingaporeMahjongServer/" "Sghawker/" "Rellactive/" "MLB/" "iOS/" "Giftnie/" "fim/" "emacs/" "Conqueror/" "2359Media/" ".DS_Store" "../" "./")
+
+ ("/Users/alvinloh/Projects/sypherlabs/" (21799 12540 0 0) "Versafleet-Old/" "versafleet-frontend/" "versafleet-cookbooks/" "versafleet/" "react-chartjs/" "jsprit/" "chatting/" ".DS_Store" "../" "./")
+
+ ("/Users/alvinloh/Projects/sypherlabs/versafleet/" (21853 58150 0 0) "vendor/" "tmp/" "spec/" "script/" "README.md" "Rakefile" "public/" "log/" "lib/" "Guardfile" "Gemfile.lock" "Gemfile" "dump.rdb" "doc/" "db/" "config.ru" "config/" "Capfile" "bin/" "app/" ".yardoc/" ".rspec" ".gitignore" ".git/" ".env.test" ".env.staging" ".env.production" ".env.local" ".env.development" ".env" ".#.env" "#Gemfile#" "#.env#" "../" "./")
+
+ ("/Users/alvinloh/Projects/sypherlabs/versafleet/spec/" (21853 30621 0 0) "test_files/" "support/" "spec_helper.rb" "requests/" "rails_helper.rb" "models/" "factories/" "acceptance/" "../" "./")
+
+ ("/Users/alvinloh/Projects/sypherlabs/versafleet/spec/requests/" (21853 60255 0 0) "shared_examples/" "request_vehicle_spec.rb" "request_vehicle_maintenance_spec.rb" "request_vehicle_locator_spec.rb" "request_user_spec.rb" "request_trip_spec.rb" "request_session_spec.rb" "request_runsheets_spec.rb" "request_revision_spec.rb" "request_profile_spec.rb" "request_notifications_spec.rb" "request_job_spec.rb" "request_file_spec.rb" "request_driver_spec.rb" "request_dashboards_spec.rb" "request_customer_spec.rb" "request_billing_account_spec.rb" "request_base_spec.rb" "mobile/" "../" "./")
+
+ ("/Users/alvinloh/Projects/sypherlabs/versafleet/db/migrate/" (21853 53898 0 0) "20150521121258_remove_single_measurements.rb~" "20150521121258_remove_single_measurements.rb" "20150514035559_create_active_admin_comments.rb" "20150514035552_devise_create_admin_users.rb" "20150506060517_add_deleted_at_to_other_models.rb" "20150506055600_add_last_deleted_at_to_models.rb" "20150506030733_add_deleted_to_billing_accounts.rb" "20150430041955_add_guid_to_guidable.rb" "20150430035208_add_last_notification_read_at_to_users.rb" "20150430032430_remove_total_receipt_value_from_vehicles.rb" "20150430024644_add_name_to_photos.rb" "20150430021810_add_maintenance_cost_to_vehicles.rb" "20150424030505_create_measurements.rb" "20150422094317_create_revisions.rb" "20150422034151_add_volume_to_jobs.rb" "20150416083839_add_time_type_to_trips.rb" "20150410030753_move_pricing_invoice_to_trips.rb" "20150409093017_remove_job_columns.rb" "20150406015846_install_audited.rb" "20150403115803_create_attachments.rb" "20150320052517_add_max_drivers_users_vehicles_to_accounts.rb" "20150318135303_add_vehicle_provider_to_accounts.rb" "20150318091100_create_vehicle_locators.rb" "20150315083850_remove_status_to_jobs.rb" "20150313084259_change_collation_for_tag_names.acts_as_taggable_on_engine.rb" "20150313084258_add_missing_taggable_index.acts_as_taggable_on_engine.rb" "20150313084257_add_taggings_counter_cache_to_tags.acts_as_taggable_on_engine.rb" "20150313084256_add_missing_unique_indices.acts_as_taggable_on_engine.rb" "20150313084255_acts_as_taggable_on_migration.acts_as_taggable_on_engine.rb" "20150313040240_create_user_notification_assignments.rb" "20150313035448_create_notifications.rb" "20150312094040_add_row_order_to_trips.rb" "20150312080817_create_photos.rb" "20150312042106_add_trip_columns.rb" "20150311091801_add_driver_auths.rb" "20150310091232_create_trip_resources_assignments.rb" "20150310030742_create_trips.rb" "20150305025411_add_price_to_jobs.rb" "20150305024647_add_role_to_addresses.rb" "20150305015402_create_jobs.rb" "20150227081014_add_account_id_to_addresses.rb" "20150227043458_create_vehicle_maintenance_breakdowns.rb" "20150227025904_create_vehicle_maintenances.rb" "20150222180815_add_is_standalone_to_customers.rb" "20150217070422_create_customers.rb" "20150217055540_create_vehicles.rb" "20150217015413_add_account_id_to_drivers.rb" "20150216090822_create_drivers.rb" "20150216025137_add_account_id_to_billing_account.rb" "20150213061458_create_billing_account.rb" "20150213044946_add_archived_to_users.rb" "20150212161511_add_ban_to_users.rb" "20150204134128_add_password_recoverable_to_users.rb" "20150204070937_add_need_password_change_to_users.rb" "20150130062411_create_addresses.rb" "20150129115721_add_columns_to_users.rb" "20150129083150_create_user_account_assignments.rb" "20150129065543_add_roles_mask_to_users.rb" "20150120014418_create_users.rb" "20150119063500_create_accounts.rb" ".#20150521121258_remove_single_measurements.rb" "#20150521121258_remove_single_measurements.rb#" "../" "./")
+
+ ("/Users/alvinloh/Projects/sypherlabs/versafleet/app/" (21844 7368 0 0) "views/" "utilities/" "serializers/" "models/" "middleware/" "mailers/" "helpers/" "errors/" "decorators/" "controllers/" "assets/" "admin/" ".DS_Store" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
