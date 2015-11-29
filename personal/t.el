@@ -16,4 +16,12 @@
 (require 'helm-ag)
 (global-set-key (kbd "M-g .") 'helm-ag-project-root)
 
+(defun save-buffer-always ()
+  "Save the buffer even if it is not modified."
+  (interactive)
+  (set-buffer-modified-p t)
+  (save-buffer))
+
+(global-set-key (kbd "C-x C-r") 'save-buffer-always)
+
 ;;; End
