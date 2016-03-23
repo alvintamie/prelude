@@ -18,7 +18,7 @@
 
 (global-set-key [f8] 'neotree-toggle)
 
-(setq prelude-theme 'monokai)
+(setq prelude-theme 'zenburn)
 
 
 ;;; End personal.el
